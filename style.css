@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h2{
+  color: blue;
+}
+
+h3{
+  color: brown;
+}
+
+.miClaseKevin{
+  color: pink;
+  font-size:18px;
+}
